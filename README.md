@@ -13,8 +13,5 @@
 <img src="https://shields.io/github/stars/Lursy">
 <img src="https://shields.io/github/followers/Lursy?label=Follow">
   </a><br/>
-  <script>
-  console.log('oi')
-  </script>
 <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw"><img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
 </a>

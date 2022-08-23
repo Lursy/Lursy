@@ -1,7 +1,7 @@
 <p = align="center">
 <h1><p = align="center"><img src="https://user-images.githubusercontent.com/70035797/126714717-01ca55e2-96d9-4514-a064-8b9a9f1fc782.gif" width="35">Lursy<img src="https://user-images.githubusercontent.com/70035797/126714717-01ca55e2-96d9-4514-a064-8b9a9f1fc782.gif" width="35"></p></h1>
 <p><li>Nome: <strong>Matheus</strong></li></p>
-<p><li>Idade: <strong>16</strong></li></p>
+<p><li>Idade: <strong>17</strong></li></p>
 <p><li>Youtube: <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw"><b><strong><code>Lursy</code></strong></b></a></li></p>
 <p><strong><li>Linguagem</strong></li></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/70035797/126712103-29ff7153-7fd6-4c07-b332-08f5ad67211a.png">ㅤ<img src="https://user-images.githubusercontent.com/70035797/126712103-29ff7153-7fd6-4c07-b332-08f5ad67211a.png" width="33" style="max-width:100%;"></a><em>Python<p/></em>

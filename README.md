@@ -43,7 +43,7 @@
             <img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
         </a>
     <br>
-    <p align="right">
+    <p align="left">
         <img align="right" src="https://github-readme-stats.vercel.app/api?username=lursy&show_icons=true&locale=en" alt="lursy" width=480 height=480/>
     </p>
     

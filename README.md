@@ -38,12 +38,11 @@
         <a href="https://github.com/Lursy"><img src="https://komarev.com/ghpvc/?username=mf256010&color=blueviolet">
             <img src="https://shields.io/github/stars/Lursy">
             <img src="https://shields.io/github/followers/Lursy?label=Follow">
-    </a>
+        </a>
         <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw">
             <img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
         </a>
-    <br>
-    <p align="left">
+        <br>
         <img align="right" src="https://github-readme-stats.vercel.app/api?username=lursy&show_icons=true&locale=en" alt="lursy" width=480 height=480/>
     </p>
     

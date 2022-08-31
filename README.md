@@ -33,3 +33,11 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
         </a>
     </p>
+    <a href="https://github.com/Lursy"><img src="https://komarev.com/ghpvc/?username=mf256010&color=blueviolet">
+        <img src="https://shields.io/github/stars/Lursy">
+        <img src="https://shields.io/github/followers/Lursy?label=Follow">
+      </a>
+      <br/>
+      <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw">
+        <img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
+      </a>

@@ -1,17 +1,45 @@
-<p = align="center">
-<h1><p = align="center"><img src="https://user-images.githubusercontent.com/70035797/126714717-01ca55e2-96d9-4514-a064-8b9a9f1fc782.gif" width="35">Lursy<img src="https://user-images.githubusercontent.com/70035797/126714717-01ca55e2-96d9-4514-a064-8b9a9f1fc782.gif" width="35"></p></h1>
-<p><li>Nome: <strong>Matheus</strong></li></p>
-<p><li>Idade: <strong>17</strong></li></p>
-<p><li>Youtube: <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw"><b><strong><code>Lursy</code></strong></b></a></li></p>
-<p><strong><li>Linguagem</strong></li></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/70035797/126712103-29ff7153-7fd6-4c07-b332-08f5ad67211a.png">ㅤ<img src="https://user-images.githubusercontent.com/70035797/126712103-29ff7153-7fd6-4c07-b332-08f5ad67211a.png" width="33" style="max-width:100%;"></a><em>Python<p/></em>
-  <strong><p><li>Terminal</li></p></strong>
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/70035797/126719655-22f841c5-43d2-47b8-92db-b5f0e2764618.png">ㅤ<img src="https://user-images.githubusercontent.com/70035797/126719655-22f841c5-43d2-47b8-92db-b5f0e2764618.png" width="30" style="max-width:100%;"></a><em>Termux</em> <img src="https://user-images.githubusercontent.com/70035797/126790050-fa018bac-ea57-49f2-8014-22400e6f679e.png" width="60"><em>Linux</em>
-</p>
-<h1></h1>
-<a href="https://github.com/Lursy"><img src="https://komarev.com/ghpvc/?username=mf256010&color=blueviolet">
-<img src="https://shields.io/github/stars/Lursy">
-<img src="https://shields.io/github/followers/Lursy?label=Follow">
-  </a><br/>
-<a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw"><img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
-</a>
+<h3 align="center">Informações</h3>
+    <ul>
+        <li>Nome: Matheus</li>
+        <li>Idade: 17 anos</li>
+        <li>Localização: NR/MG</li>
+        <li>Contato: <a href="https://wa.me/+553599477343" target="_blank"><b><strong><code>Whatsapp</code></strong></b></a></li>
+    </ul>
+
+
+    <h3 align="left">Linguagens que domino</h3>
+    <p align="left">
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    </p>
+
+    <h3>Linguagens futuras</h3>
+    <p align="left">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        </a>
+        <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+        </a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        </a>
+    </p>
+
+    <h3>Estudando</h3>
+    <p align="left">
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        </a>
+    </p>
+
+    <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lursy&show_icons=true&locale=en" alt="lursy" width=480 height=480/>
+        
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lursy&" alt="lursy" width=480 height=480/></p>
+
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lursy" alt="lursy" /></a> </p>

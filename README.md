@@ -36,8 +36,8 @@
     <hr>
     <p align="center">
         <a href="https://github.com/Lursy"><img src="https://komarev.com/ghpvc/?username=mf256010&color=blueviolet">
-            <img src="https://shields.io/github/stars/Lursy">
-            <img src="https://shields.io/github/followers/Lursy?label=Follow">
+            <img src="https://shields.io/github/stars/Lursy7">
+            <img src="https://shields.io/github/followers/Lursy7?label=Follow">
         </a>
         <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw">
             <img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">

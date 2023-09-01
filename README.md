@@ -43,6 +43,6 @@
             <img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
         </a>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=lursy&show_icons=true&locale=en" alt="lursy" width=480 height=480/>
+        <img src="https://github-readme-stats.vercel.app/api?username=lursy7&show_icons=true&locale=en" alt="lursy" width=480 height=480/>
     </p>
     

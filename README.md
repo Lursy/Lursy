@@ -30,6 +30,6 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Lursy&show_icons=true&title_color=fff&icon_color=30fe99&text_color=9f5&bg_color=222" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7e5AA&bg_color=222428" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Lursy&show_icons=true&title_color=fff&icon_color=30ff99&text_color=9f5&bg_color=333" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7f5AA&bg_color=222428" />
 </div>

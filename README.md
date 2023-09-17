@@ -1,48 +1,35 @@
-<h3 align="center">Informações</h3>
-    <ul>
-        <li>Nome: Matheus</li>
-        <li>Idade: 17 anos</li>
-        <li>Localização: NR/MG</li>
-        <li>Contato: <a href="https://wa.me/+553599477343" target="_blank"><b><strong><code>Whatsapp</code></strong></b></a></li>
-    </ul>
-    <h3 align="left">Linguagens que domino</h3>
-    <p align="left">
-        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    </p>
-    <h3>Linguagens futuras</h3>
-    <p align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-        </a>
-        <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        </a>
-    </p>
-    <h3>Estudando</h3>
-    <p align="left">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-        </a>
-    </p>
-    <hr>
-    <p align="center">
-        <a href="https://github.com/Lursy7"><img src="https://komarev.com/ghpvc/?username=mf256010&color=blueviolet">
-            <img src="https://shields.io/github/stars/Lursy7">
-            <img src="https://shields.io/github/followers/Lursy7?label=Follow">
+<h1 align="center"><img src="git.gif" heigth="90" width="90"> Lursy <img src="git.gif" heigth="90" width="90"></h1>
+<p align="center" background="#222">
+  Olá, meu nome é Matheus, tenho 18 anos e estou cursando o ensino técnico no Instituto Federal do sul de Minas.<br>
+  Estudo programação a 3 anos, iniciando com python e apredendo do basico de outras linguagens como c++, js, php, etc...<br>
+  Sou apaixonado por estudar novas linguagens, otimização e algoritmos, além de participar de maratonas de programação. Sinto que essa é uma das coisas que nunca vão perder o sentido pra mim, e isso só me deixa mais ansioso para ver até onde vou chegar!
+</p>
+
+<hr>
+
+<div style="display: inline_block" align="center"><br>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-0000FF?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+<div align="center">
+        <a href="https://github.com/Lursy">
+            <img src="https://komarev.com/ghpvc/?username=Lursy&color=blueviolet">
+            <img src="https://shields.io/github/stars/Lursy">
+            <img src="https://shields.io/github/followers/Lursy?label=Follow">
         </a>
         <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw">
             <img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
         </a>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=lursy7&show_icons=true&locale=pt-br" alt="lursy" width=480 height=480/>
-    </p>
-    
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Lursy&show_icons=true&title_color=fff&icon_color=30ff99&text_color=9f5&bg_color=222" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" />
+</div>

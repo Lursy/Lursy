@@ -1,6 +1,6 @@
 <h1 align="center"> Lursy </h1>
 <div align="center" background="#222">
-  <img src="nyan.gif" heigth="100" width="100"><br>
+  <img src="nyan.gif" heigth="50" width="400"><br>
   <p>Olá, meu nome é Matheus, tenho 18 anos e estou cursando o ensino técnico no Instituto Federal do sul de Minas.<br>
   Estudo programação a 3 anos, iniciando com python e apredendo do basico de outras linguagens como c++, js, php, etc...<br>
   Sou apaixonado por estudar novas linguagens, otimização e algoritmos, além de participar de maratonas de programação. Sinto que essa é uma das coisas que nunca vão perder o sentido      pra mim, e isso só me deixa mais ansioso para ver até onde vou chegar!</p>

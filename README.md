@@ -68,12 +68,12 @@
       <td>
         <img
           align="center"
-          src="https://github-readme-stats.vercel.app/api/?username=Lursy&show_icons=true&title_color=ffe&icon_color=30ff99&text_color=9f5&bg_color=332&hide_border=true&locale=pt-br"
+          src="https://github-readme-stats.vercel.app/api/?username=Lursy&show_icons=true&title_color=ffe&icon_color=30ff99&text_color=9f5&bg_color=000&hide_border=true&locale=pt-br"
         />
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=fffffe&icon_color=4CAF50&text_color=A7f5AA&bg_color=222428&locale=pt-br"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=fffffe&icon_color=4CAF50&text_color=A7f5AA&bg_color=000&locale=pt-br"
         />
       </td>
     </tr>

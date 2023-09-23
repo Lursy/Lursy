@@ -73,7 +73,7 @@
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=fffffe&icon_color=4CAF50&text_color=A7f5AA&bg_color=000&locale=pt-br" width="350"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=fffffe&icon_color=4CAF50&text_color=A7f5AA&bg_color=000&locale=pt-br" width="330"
         />
       </td>
     </tr>

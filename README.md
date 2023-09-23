@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <table align="center" width="100%" border="0">
+  <table align="center" width="95%" border="0">
     <tr>
       <td>
         <img

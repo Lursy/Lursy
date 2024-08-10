@@ -4,10 +4,10 @@
     <img src="nyan.gif" heigth="50" width="400" />
   </div>
   <p>
-    Olá, meu nome é Matheus, tenho 18 anos e estou cursando o ensino técnico no
+    Olá, meu nome é Matheus, tenho 19 anos e estou cursando o ensino técnico no
     Instituto Federal do sul de Minas.
     Estudo programação a 3 anos, iniciando com python e apredendo do basico de
-    outras linguagens como c++, js, php, etc...
+    outras linguagens como c++, ts, php, etc...
     Sou apaixonado por estudar novas linguagens, otimização e algoritmos, além
     de participar de maratonas de programação. Sinto que essa é uma das coisas
     que nunca vão perder o sentido pra mim, e isso só me deixa mais ansioso para

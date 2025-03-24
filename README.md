@@ -6,7 +6,7 @@
   <p>
     Olá, meu nome é Matheus, tenho 19 anos e estou cursando o ensino técnico no
     Instituto Federal do sul de Minas.
-    Estudo programação a 3 anos, iniciando com python e apredendo do basico de
+    Estudo programação desde 2020, iniciando com python e apredendo do basico de
     outras linguagens como c++, ts, php, etc...
     Sou apaixonado por estudar novas linguagens, otimização e algoritmos, além
     de participar de maratonas de programação. Sinto que essa é uma das coisas
